@@ -1,1 +1,1 @@
-/etc/bash/config/aliases.sh
+../config/aliases.sh
