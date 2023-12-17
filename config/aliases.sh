@@ -20,6 +20,7 @@ alias lisa='ls -lisa'
 alias dd='dd status=progress'
 alias _='sudo'
 alias _i='sudo -i'
+alias _I='sudo -i'
 
 #  CUSTOM ALIASES
 
@@ -39,6 +40,7 @@ alias please='sudo'
 alias fucking='sudo'
 alias _i='sudo su -'
 alias x='startx'
+alias bat='batcat'
 
 # infallible wget
 alias wget='wget -c -t 0 -T 15'

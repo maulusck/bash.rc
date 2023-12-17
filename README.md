@@ -1,6 +1,6 @@
 ## personal bash configuration
 
-Initialize by `git clone https://stash.hopto.org/git/mwl/bash.rc /etc/bash`
+Initialize by `git clone https://arpa.nex.sh/git/mwl/bash.rc /etc/bash`
 
 `ln -sfv /etc/bash/config/<conf>.sh /etc/bash/bashrc.d/` to activate a config;
 
