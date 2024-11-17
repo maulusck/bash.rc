@@ -42,9 +42,13 @@ alias fucking="sudo"
 alias _i="sudo su -"
 alias x="startx"
 alias bat="batcat"
+alias rsync="rsync --progress"
 
 # infallible wget
-alias wget="wget -c -t 0 -T 15"
+alias wget="wget -c -t0 -T15"
+
+# recursive wget
+alias wget-directory="wget -c -t0 -T15 -r -np -e robots=off -R \"*.html*\""
 
 # functions
 
