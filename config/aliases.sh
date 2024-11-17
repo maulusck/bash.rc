@@ -56,4 +56,3 @@ alias wget-directory="wget -c -t0 -T15 -r -np -e robots=off -R \"*.html*\""
 function loop(){
         while true; do (${@:2} && sleep $1 && clear) done
 }; export -f loop
-
