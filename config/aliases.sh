@@ -41,8 +41,10 @@ alias please="sudo"
 alias fucking="sudo"
 alias _i="sudo su -"
 alias x="startx"
+alias cat="bat"
 alias bat="batcat"
 alias rsync="rsync --progress"
+alias fwcmd="firewall-cmd"
 
 # infallible wget
 alias wget="wget -c -t0 -T15"
