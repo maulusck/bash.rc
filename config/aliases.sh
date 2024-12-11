@@ -42,7 +42,6 @@ alias fucking="sudo"
 alias _i="sudo su -"
 alias x="startx"
 alias cat="bat"
-alias bat="batcat"
 alias rsync="rsync --progress"
 alias fwcmd="firewall-cmd"
 
