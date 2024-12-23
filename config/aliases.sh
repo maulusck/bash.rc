@@ -43,6 +43,7 @@ alias _i="sudo su -"
 alias x="startx"
 alias cat="bat"
 alias rsync="rsync --progress"
+alias bmon="bmon -U"
 alias fwcmd="firewall-cmd"
 
 # infallible wget
